@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsLearning</string>
+    <string name="edittext_sendmessage_msg">Name</string>
+    <string name="button_sendmessage_send">Button</string>
+</resources>
